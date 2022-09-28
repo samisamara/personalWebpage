@@ -1,0 +1,9 @@
+#wrapper {
+  width: 70%;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+#appStyling {
+  margin-top: 0;
+}
