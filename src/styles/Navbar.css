@@ -42,10 +42,9 @@
   cursor: pointer;
 }
 
-.nav-item .active {
-  text-decoration: none;
-  padding-bottom: 4px;
+.nav-menu a.active {
   color: #ffea00;
+  text-decoration: none;
 }
 
 .hamburger {
