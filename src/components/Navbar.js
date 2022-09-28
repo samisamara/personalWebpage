@@ -33,10 +33,9 @@ const Navbar = () => {
               </div>
               <ul className={click ? "nav-menu active" : "nav-menu"}>
                   <li className='nav-item'>
-                    <Link to="header" spy={true} smooth={true} offset={-100} onClick={closeMenu} id="homeLink">Home</Link>
-                    
+                    <Link to="header" spy={true} smooth={true} offset={-100} onClick={closeMenu}>Home</Link>
                   </li>
-                  <li><a href="#aboutMe">this</a></li>
+                  {/* <li><a href="#aboutMe">this</a></li> */}
                   <li className='nav-item'>
                     <Link to="aboutMe" spy={true} smooth={true} offset={-100} onClick={closeMenu}>About</Link>
                   </li>

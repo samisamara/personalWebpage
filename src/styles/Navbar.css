@@ -39,7 +39,13 @@
 .header .nav-item a:hover {
   padding-bottom: 4px;
   color: #ffea00;
-  border-bottom: 3px solid #ffea00;
+  cursor: pointer;
+}
+
+.nav-item .active {
+  text-decoration: none;
+  padding-bottom: 4px;
+  color: #ffea00;
 }
 
 .hamburger {
