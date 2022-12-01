@@ -35,15 +35,14 @@ const Navbar = () => {
                   <li className='nav-item'>
                     <Link to="header" spy={true} smooth={true} offset={-100} onClick={closeMenu}>Home</Link>
                   </li>
-                  {/* <li><a href="#aboutMe">this</a></li> */}
                   <li className='nav-item'>
                     <Link to="aboutMe" spy={true} smooth={true} offset={-100} onClick={closeMenu}>About</Link>
                   </li>
                   <li className='nav-item'>
-                    <Link to="/" spy={true} smooth={true} offset={50} onClick={closeMenu}>Resume</Link>
+                    <Link to="/" spy={true} smooth={true} offset={50} onClick={closeMenu}>Projects</Link>
                   </li>
                   <li className='nav-item'>
-                    <Link to="/" spy={true} smooth={true} offset={50} onClick={closeMenu}>Projects</Link>
+                    <Link to="/" spy={true} smooth={true} offset={50} onClick={closeMenu}>Resume</Link>
                   </li>
               </ul>
           </nav>

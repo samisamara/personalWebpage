@@ -3,6 +3,7 @@ import AboutMe from "./AboutMe";
 import '../styles/App.css';
 import Header from "./Header";
 import Credentials from "./Credentials";
+import Portfolio from "./Portfolio";
 import Navbar from "./Navbar";
 
 const App = () => {
@@ -11,10 +12,7 @@ const App = () => {
       <Navbar />
       <Header />
       <AboutMe />
-      <h1>Filler</h1>
-      <h1>Filler</h1>
-      <h1>Filler</h1>
-      
+      <Portfolio />
       <Credentials />
       
     </div>

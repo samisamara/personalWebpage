@@ -38,12 +38,12 @@
 
 .header .nav-item a:hover {
   padding-bottom: 4px;
-  color: #ffea00;
+  color: #d4af37;
   cursor: pointer;
 }
 
 .nav-menu a.active {
-  color: #ffea00;
+  color: #d4af37;
   text-decoration: none;
 }
 
