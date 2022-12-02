@@ -13,7 +13,7 @@ const App = () => {
       <Header />
       <AboutMe />
       <Portfolio />
-      <Credentials />
+      {/* <Credentials /> */}
       
     </div>
   );

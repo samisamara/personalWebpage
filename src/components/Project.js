@@ -1,9 +1,10 @@
 import React from "react";
+import "../styles/Project.css";
 
-const Project = () => {
+const Project = ({ name, type, description, image }) => {
   return (
-    <div>
-      <h1>Project</h1>
+    <div className="project">
+      <h1>{name}</h1>
     </div>
   );
 };

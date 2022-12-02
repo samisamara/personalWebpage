@@ -13,7 +13,7 @@ const AboutMe = () => {
         <div className="introSection">
           <img id="selfPicture" className="rounded-circle" src={selfPicture} />
           <p className="introText">
-            Hello! I'm a software engineer seeking roles in the computer science
+            Hello! I'm a software engineer seeking employment in the computer science
             industry. I graduated in Saint Xavier University with my Master's
             degree in Computer Science. My primary goal is software engineering,
             however, I also have a great interest in UX design, mobile

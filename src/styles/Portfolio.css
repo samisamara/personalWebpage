@@ -11,3 +11,9 @@
 .portfolioSubTitle {
   text-align: center;
 }
+
+.projectContainer {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
