@@ -1,7 +1,7 @@
 import React from "react";
-import WorkTimeline from "./WorkTimeline";
-import EducationTimeline from "./EducationTimeline";
-import '../styles/Credentials.css';
+import WorkTimeline from "../WorkTimeline"
+import EducationTimeline from "../EducationTimeline";
+import './Credentials.css';
 
 const Credentials = () => {
 

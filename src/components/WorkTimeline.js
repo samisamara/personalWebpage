@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/TimeLine.css";
+import "./TimeLine.css";
 import WorkElement from "./WorkElement";
 
 const jobs = [

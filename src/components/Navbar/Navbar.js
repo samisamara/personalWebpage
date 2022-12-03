@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from 'react-scroll';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { useState, useEffect } from "react";
-import '../styles/Navbar.css';
+import './Navbar.css';
 
 
 const Navbar = () => {

@@ -1,7 +1,7 @@
 import React from "react";
-import "../styles/AboutMe.css";
-import SkillBar from "./SkillBar";
-import selfPicture from "../images/selfPicture.jpeg";
+import "./AboutMe.css";
+import SkillBar from "../SkillBar/SkillBar.js";
+import selfPicture from "../../images/selfPicture.jpeg";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 

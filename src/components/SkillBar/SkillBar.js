@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/SkillBar.css';
+import './SkillBar.css';
 
 const SkillBar = () => {
   return (
@@ -54,7 +54,7 @@ const SkillBar = () => {
         <span className="title">Git</span>
         <div className="skill-bar">
           <span className="skill-per git">
-            <span className="tooltip">70%</span>
+            <span className="tooltip">85%</span>
           </span>
         </div>
       </div>
@@ -81,7 +81,7 @@ const SkillBar = () => {
         <span className="title">AutoDesk Inventor</span>
         <div className="skill-bar">
           <span className="skill-per autodesk">
-            <span className="tooltip">70%</span>
+            <span className="tooltip">80%</span>
           </span>
         </div>
       </div>

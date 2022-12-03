@@ -1,10 +1,10 @@
 import React from "react";
-import AboutMe from "./AboutMe";
-import '../styles/App.css';
-import Header from "./Header";
-import Credentials from "./Credentials";
-import Portfolio from "./Portfolio";
-import Navbar from "./Navbar";
+import AboutMe from "./AboutMe/AboutMe.js";
+import "./App.css"
+import Header from "./Header/Header.js";
+import Credentials from "./Credentials/Credentials.js";
+import Portfolio from "./Portfolio/Portfolio.js";
+import Navbar from "./Navbar/Navbar.js";
 
 const App = () => {
   return (

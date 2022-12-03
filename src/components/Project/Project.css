@@ -1,8 +1,17 @@
 .project {
   color: red;
-  background-image: url('/src/images/portfolioImages/atlasims.png');
   background-size: contain;
   background-repeat: no-repeat;
+  width: 25%;
+  height: 25%;
+}
+
+/* .project {
+  color: red;
   width: 350px;
   height: 350px;
-}
+} */
+
+/* .pic {
+
+} */

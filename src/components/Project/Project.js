@@ -1,10 +1,10 @@
 import React from "react";
-import "../styles/Project.css";
+import "./Project.css";
 
 const Project = ({ name, type, description, image }) => {
   return (
     <div className="project">
-      <h1>{name}</h1>
+      <img src={image} alt={name} className="project"/>
     </div>
   );
 };
