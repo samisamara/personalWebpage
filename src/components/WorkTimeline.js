@@ -4,12 +4,6 @@ import WorkElement from "./WorkElement";
 
 const jobs = [
   {
-    jobTitle: 'Software Developer',
-    business: 'AtlasIMS',
-    date: 'July 2022 - August 2022',
-    description: "Designed UI for business front page. Created a webpage with the Mobile-First design philosophy and designed the website structure to be both interactive and informative of Atlas IMS and their business operations."
-  },
-  {
     jobTitle: 'Store Manager',
     business: 'UPS',
     date: 'March 2020 - Present',

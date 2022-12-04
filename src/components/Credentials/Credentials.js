@@ -6,7 +6,7 @@ import './Credentials.css';
 const Credentials = () => {
 
   return (
-    <div>
+    <div id="resume">
       <h4 className="resumeTitle">Resume</h4>
       <h2 className="resumeSubTitle">More of my credentials</h2>
       <WorkTimeline />
