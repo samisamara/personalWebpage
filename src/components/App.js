@@ -1,10 +1,11 @@
 import React from "react";
 import AboutMe from "./AboutMe/AboutMe.js";
-import "./App.css"
+import "./App.css";
 import Header from "./Header/Header.js";
 import Credentials from "./Credentials/Credentials.js";
 import Portfolio from "./Portfolio/Portfolio.js";
 import Navbar from "./Navbar/Navbar.js";
+import Modal from "./Modal/Modal.js";
 
 const App = () => {
   return (
@@ -14,10 +15,8 @@ const App = () => {
       <AboutMe />
       <Portfolio />
       <Credentials />
-      
     </div>
   );
-
 };
 
 export default App;
