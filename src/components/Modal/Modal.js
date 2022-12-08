@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from 'react-dom';
 import "./Modal.css";
 
-const Modal = ({ open, children, onClose, image, name, description, type }) => {
+const Modal = ({ open, onClose, image, name, description, type, link }) => {
   if (!open) return null;
   return ReactDOM.createPortal(
     <>
@@ -15,7 +15,7 @@ const Modal = ({ open, children, onClose, image, name, description, type }) => {
           <h5 className="modal-item-type">{type}</h5>
         </div>
         <div className="link-box">
-          <h5 className="modal-details">Details</h5>
+          <a className="modal-details" href={link} target="_blank" rel="noopener noreferrer">Details</a>
           <h5 className="modal-close" onClick={onClose}>Close</h5>
         </div>
       </div>

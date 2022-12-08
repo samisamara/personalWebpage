@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Project.css";
 import Modal from "../Modal/Modal";
 
-const Project = ({ name, type, description, image }) => {
+const Project = ({ name, type, description, image, link }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   const projectEvents = (e) => {
@@ -19,6 +19,7 @@ const Project = ({ name, type, description, image }) => {
         name={name}
         description={description}
         type={type}
+        link={link}
       >
         {name}
       </Modal>

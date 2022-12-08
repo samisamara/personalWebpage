@@ -57,7 +57,6 @@ const AboutMe = () => {
           </Col>
         </Row>
         <div className="aboutMeButtons">
-
           <button className="button btn-1">Hire Me</button>
           <button className="button">Download Resume</button>
         </div>
