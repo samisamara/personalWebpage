@@ -73,7 +73,10 @@
   padding-bottom: 100px;
   text-align: center;
   box-shadow: none;
-  
+}
+
+.aboutMeButtons .button {
+  width: 250px;
 }
 
 .btn-1 {
@@ -86,14 +89,22 @@
   border-radius: 5px;
   box-shadow: none;
   outline: none;
+  display: inline-block;
   padding: 10px;
   color: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 20px;
-  min-width: 220px;
   height: 70px;
   text-decoration: none;
+  -webkit-transition-property: all; 
+  -webkit-transition-duration: 0.2s; 
+  -webkit-transition-timing-function: ease;
+}
+
+.resumeButton {
+  padding: 23px;
+  cursor: pointer;
 }
 
 .button:active {
@@ -106,7 +117,7 @@
   border-color: #808080;
   transition: 500ms;
   outline: none;
-  
+  color: white;
 }
 
 .col {

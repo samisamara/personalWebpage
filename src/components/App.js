@@ -5,7 +5,7 @@ import Header from "./Header/Header.js";
 import Credentials from "./Credentials/Credentials.js";
 import Portfolio from "./Portfolio/Portfolio.js";
 import Navbar from "./Navbar/Navbar.js";
-import Modal from "./Modal/Modal.js";
+import Testing from "./Testing.js";
 
 const App = () => {
   return (
@@ -14,7 +14,9 @@ const App = () => {
       <Header />
       <AboutMe />
       <Portfolio />
+      <Testing />
       <Credentials />
+      
     </div>
   );
 };
