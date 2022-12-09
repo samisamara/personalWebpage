@@ -92,16 +92,34 @@ const Portfolio = () => {
       <div className="PortfolioContent">
         <h1 className="portfolioTitle">Portfolio</h1>
         <h3 className="portfolioSubTitle">Check out some of my Projects!</h3>
-        <div className="projectContainer">
-          {projects.map((project) => (
-            <Project
-              name={project.name}
-              type={project.type}
-              description={project.description}
-              image={project.picture}
-              link={project.link}
-            />
-          ))}
+
+
+
+        <div className="animation-top-layer">
+          <div className="projectContainerOuterlayer">
+            <div className="projectContainerInnerlayer animate">
+              {projects.map((project) => (
+                <Project
+                  name={project.name}
+                  type={project.type}
+                  description={project.description}
+                  image={project.picture}
+                  link={project.link}
+                />
+              ))}
+              {projects.map((project) => (
+                <Project
+                  name={project.name}
+                  type={project.type}
+                  description={project.description}
+                  image={project.picture}
+                  link={project.link}
+                />
+              ))}
+            </div>
+        </div>
+
+
         </div>
       </div>
     </div>
