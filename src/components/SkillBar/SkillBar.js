@@ -81,7 +81,7 @@ const SkillBar = () => {
         <span className="title">AutoDesk Inventor</span>
         <div className="skill-bar">
           <span className="skill-per autodesk">
-            <span className="tooltip">80%</span>
+            <span className="tooltip">85%</span>
           </span>
         </div>
       </div>
@@ -90,7 +90,7 @@ const SkillBar = () => {
         <span className="title">Adobe Illutrator/Adobe Photoshop</span>
         <div className="skill-bar">
           <span className="skill-per adobe">
-            <span className="tooltip">70%</span>
+            <span className="tooltip">80%</span>
           </span>
         </div>
       </div>

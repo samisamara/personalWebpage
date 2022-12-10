@@ -51,7 +51,7 @@ const AboutMe = () => {
           <Col key={2}>
             <div className="skills">
               <h3 className="segmentTitle">SKILLS</h3>
-              <p>
+              <p className="skillsText">
                 I have developed my skills in Computer Science over the years,
                 as well as other varying skills centered around design. Below
                 are highlights of those technical skills.
