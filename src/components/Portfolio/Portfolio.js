@@ -16,7 +16,7 @@ const projects = [
     name: "AtlasIMS",
     type: "Web Development",
     description:
-      "Designed UI layout for business front page. Created a webpage with the Mobile-First design philosophy and designed the website structure to be both interactive and informative of Atlas IMS and their business operations.",
+      "Designed UI layout for Atlas IMS's business front page. Created a webpage with the Mobile-First design philosophy and designed the website structure to be both interactive and informative of Atlas IMS and their business operations.",
     picture: atlasims,
     link: "https://github.com/whitesand230/atlasiam-site"
   },
