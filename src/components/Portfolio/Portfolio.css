@@ -62,7 +62,6 @@
   .projectContainerOuterlayer {
     height: 300px;
   }
-
 }
 
 @media only screen and ( max-width: 800px ) {
@@ -72,8 +71,6 @@
 }
 
 @media only screen and ( max-width: 550px ) {
-
-
   .projectContainerOuterlayer {
     height: 400px;
   }

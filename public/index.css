@@ -2,6 +2,7 @@
   --secondary-color: #ffea00;
 }
 
-/* #root {
+#root {
   width: 100%;
-} */
+  overflow-x:hidden;
+}
