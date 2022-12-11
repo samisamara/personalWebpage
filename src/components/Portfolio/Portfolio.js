@@ -21,7 +21,7 @@ const projects = [
     link: "https://github.com/whitesand230/atlasiam-site"
   },
   {
-    name: "driveThruApp",
+    name: "Drive-Thru App",
     type: "Web Development",
     description:
       "Designed the functionality of a drive thru app a fast food corporation would utilize to speed up the process order and delivery. This project used Starbucks as an example of how their own drive thru app would function.",
