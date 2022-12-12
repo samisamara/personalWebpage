@@ -5,15 +5,16 @@
   position: relative;
   height: 100vh;
   width: 100%;
-  background-image: url('../../images/chicagoCrop.jpg');
+  background-image: url('../../images/chicago.jpg');
   background-attachment: local;
   background-size: cover;
   background-repeat: no-repeat; 
   display: flex;
   flex-direction: column;
   letter-spacing: -2px;
-  text-shadow: 0px 2px 3px rgb(0 0 0 / 80%);
+  text-shadow: 0px 2px 10px rgb(0 0 0 / 80%);
   font-size: 5vw;
+  background-position-y: top;
 }
 
 .header-content {
@@ -29,6 +30,7 @@
 .title-alias {
   font-family: 'Times New Roman', Times, serif;
   letter-spacing: 1px;
+  text-shadow: 0px 2px 10px rgb(0 0 0 / 80%);
 }
 
 .iconCollection {
@@ -52,4 +54,8 @@
 
 .headerIcon:hover {
   color: #37D4AF;
+}
+
+@media only screen and ( max-width: 750px ) {
+
 }
