@@ -67,6 +67,7 @@
   .contactHeader {
     padding-top: 120px;
   }
+
   .contactSubtext {
     margin-left: 20px;
     margin-right: 20px;
@@ -76,6 +77,11 @@
     display: inline-block;
     margin-top: 40px;
     width: 100%;
+  }
+
+  .connectionIcon {
+    width: 100%;
+    margin: auto;
   }
 
   .connectionDiv {
