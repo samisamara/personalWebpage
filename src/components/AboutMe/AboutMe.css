@@ -1,6 +1,6 @@
 #aboutMe {
   background-color: #111111;
-  color: white;
+  color: #d4af37;
 }
 
 .aboutMeContent {
@@ -130,7 +130,7 @@ html, body {
   scroll-snap-type: y; 
 }
 
-@media (max-width: 800px) {
+@media (max-width: 2000px) {
   html, body {
   overflow-x: hidden;
   }

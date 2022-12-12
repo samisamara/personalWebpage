@@ -1,4 +1,6 @@
 import React from "react";
+import { DiGithubBadge  } from 'react-icons/di';
+import { FaLinkedin } from 'react-icons/fa';
 import "./Header.css";
 
 const Header = () => {
@@ -9,8 +11,15 @@ const Header = () => {
         <h3 className="title-alias">
           Software Engineer | React Developer | Web Developer
         </h3>
+        <div className="iconCollection">
+          <a href="https://www.github.com/samisamara" className="iconAnchor" target="_blank" rel="noopener noreferrer">
+            <DiGithubBadge className="headerIcon" size={50} />
+          </a>
+          <a href="https://www.linkedin.com/in/sami-samara" className="iconAnchor" target="_blank" rel="noopener noreferrer">
+            <FaLinkedin className="headerIcon" size={50} />
+          </a>
+        </div>
       </div>
-      
     </div>
   );
 };

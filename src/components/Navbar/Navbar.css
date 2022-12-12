@@ -38,7 +38,8 @@
 
 .header .nav-item a:hover {
   padding-bottom: 4px;
-  color: #d4af37;
+  /* color: #d4af37; */
+  color: #37D4AF;
   cursor: pointer;
 }
 

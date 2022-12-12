@@ -5,6 +5,8 @@ import Header from "./Header/Header.js";
 import Credentials from "./Credentials/Credentials.js";
 import Portfolio from "./Portfolio/Portfolio.js";
 import Navbar from "./Navbar/Navbar.js";
+import Contact from "./Contact/Contact.js";
+import Copyright from "./Copyright/Copyright.js";
 
 const App = () => {
   return (
@@ -14,6 +16,8 @@ const App = () => {
       <AboutMe />
       <Portfolio />
       <Credentials />
+      <Contact />
+      <Copyright />
     </div>
   );
 };

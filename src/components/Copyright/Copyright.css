@@ -1,0 +1,11 @@
+.copyrightDiv {
+  background-color: #101010;
+  margin: 0px;
+  padding: 40px;
+}
+
+.copyrightText {
+  text-align: center;
+  color: white;
+  opacity: 50%;
+}

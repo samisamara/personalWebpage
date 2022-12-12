@@ -7,7 +7,7 @@ const Credentials = () => {
 
   return (
     <div id="resume">
-      <h4 className="resumeTitle">Resume</h4>
+      <h1 className="resumeTitle">Resume</h1>
       <h2 className="resumeSubTitle">More of my credentials</h2>
       <WorkTimeline />
       <EducationTimeline />
