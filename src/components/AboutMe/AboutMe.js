@@ -12,7 +12,7 @@ const AboutMe = () => {
       <div className="aboutMeContent">
         <h1 className="aboutMeHeader">About Me</h1>
         <div className="introSection">
-          <img id="selfPicture" className="rounded-circle" src={selfPicture} />
+          <img id="selfPicture" className="rounded-circle" src={selfPicture} alt="selfImage"/>
           <p className="introText">
             Hello! I'm a software engineer seeking employment in the computer
             science industry. I graduated in Saint Xavier University with my

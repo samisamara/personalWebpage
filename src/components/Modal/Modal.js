@@ -8,7 +8,7 @@ const Modal = ({ open, onClose, image, name, description, type, link }) => {
     <>
     <div className="modal-background" />
       <div id="modal">
-        <img className="modal-image" src={image}/>
+        <img className="modal-image" src={image} alt={name}/>
         <div className="modal-info">
           <h4 className="modal-item-name">{name}</h4>
           <h5 className="modal-item-description">{description}</h5>
