@@ -1,0 +1,11 @@
+:root {
+  --secondary-color: #ffea00;
+}
+
+#root {
+  overflow-x:hidden;
+}
+
+html,body{
+  overflow-x: hidden;
+}
