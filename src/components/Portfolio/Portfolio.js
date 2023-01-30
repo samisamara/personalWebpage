@@ -34,7 +34,7 @@ const projects = [
     name: "Donut Dasher",
     type: "Android App",
     description:
-      "Mobile Application for a hypthetical donut delivery service. Users can customize donuts to their own preference, and the price would be calculated based on the user's choices.",
+      "Mobile Application for a hypothetical donut delivery service. Users can customize donuts to their own preference, and the price would be calculated based on the user's choices.",
     picture: donut_dasher,
     link: "https://github.com/samisamara/DonutDasher",
     key: "p3"
