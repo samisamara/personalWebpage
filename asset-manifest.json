@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personalWebpage/static/css/main.2fad05ff.css",
-    "main.js": "/personalWebpage/static/js/main.47aacf3a.js",
+    "main.css": "/personalWebpage/static/css/main.ea892db6.css",
+    "main.js": "/personalWebpage/static/js/main.04731b4f.js",
     "static/media/chicago.jpg": "/personalWebpage/static/media/chicago.42d413a0be6ac3cf6f4c.jpg",
     "static/media/smash_website.png": "/personalWebpage/static/media/smash_website.321e04e7fe87598ff51a.png",
     "static/media/selfPicture.jpeg": "/personalWebpage/static/media/selfPicture.e2936b6b82a8ee760a03.jpeg",
@@ -16,11 +16,11 @@
     "static/media/weather_app.png": "/personalWebpage/static/media/weather_app.d5f06fa43fdd2b52aae8.png",
     "static/media/chatroom.png": "/personalWebpage/static/media/chatroom.8b8b07e95697effdf0bc.png",
     "index.html": "/personalWebpage/index.html",
-    "main.2fad05ff.css.map": "/personalWebpage/static/css/main.2fad05ff.css.map",
-    "main.47aacf3a.js.map": "/personalWebpage/static/js/main.47aacf3a.js.map"
+    "main.ea892db6.css.map": "/personalWebpage/static/css/main.ea892db6.css.map",
+    "main.04731b4f.js.map": "/personalWebpage/static/js/main.04731b4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fad05ff.css",
-    "static/js/main.47aacf3a.js"
+    "static/css/main.ea892db6.css",
+    "static/js/main.04731b4f.js"
   ]
 }
