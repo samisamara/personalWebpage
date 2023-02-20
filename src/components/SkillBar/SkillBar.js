@@ -15,6 +15,15 @@ const SkillBar = () => {
       </div>
 
       <div className="skill-box">
+        <span className="title">Node.js/Express</span>
+        <div className="skill-bar">
+          <span className="skill-per nodeExpress">
+            <span className="tooltip">80%</span>
+          </span>
+        </div>
+      </div>
+
+      <div className="skill-box">
         <span className="title">HTML5/CSS</span>
         <div className="skill-bar">
           <span className="skill-per htmlcss">
@@ -36,6 +45,15 @@ const SkillBar = () => {
         <span className="title">Redux</span>
         <div className="skill-bar">
           <span className="skill-per redux">
+            <span className="tooltip">70%</span>
+          </span>
+        </div>
+      </div>
+
+      <div className="skill-box">
+        <span className="title">MongoDB</span>
+        <div className="skill-bar">
+          <span className="skill-per mongoDB">
             <span className="tooltip">70%</span>
           </span>
         </div>

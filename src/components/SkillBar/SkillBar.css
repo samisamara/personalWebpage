@@ -50,6 +50,11 @@
   animation-delay: 0.1s;
 }
 
+.skill-per.nodeExpress {
+  width: 80%;
+  animation-delay: 0.1s;
+}
+
 .skill-per.htmlcss{
   width: 90%;
   animation-delay: 0.2s;
@@ -61,6 +66,10 @@
 .skill-per.redux{
   width: 70%;
   animation-delay: 0.3s;
+}
+.skill-per.mongoDB {
+  width: 70%;
+  animation-delay: 0.1s;
 }
 .skill-per.mysql{
   width: 70%;
