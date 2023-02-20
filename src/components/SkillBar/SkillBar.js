@@ -105,7 +105,7 @@ const SkillBar = () => {
       </div>
 
       <div className="skill-box">
-        <span className="title">Adobe Illutrator/Adobe Photoshop</span>
+        <span className="title">Adobe Illutrator/Photoshop</span>
         <div className="skill-bar">
           <span className="skill-per adobe">
             <span className="tooltip">80%</span>
