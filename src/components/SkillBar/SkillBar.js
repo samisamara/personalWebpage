@@ -78,9 +78,9 @@ const SkillBar = () => {
       </div>
 
       <div className="skill-box">
-        <span className="title">Android Studios</span>
+        <span className="title">Android Studio</span>
         <div className="skill-bar">
-          <span className="skill-per androidStudios">
+          <span className="skill-per androidStudio">
             <span className="tooltip">60%</span>
           </span>
         </div>
