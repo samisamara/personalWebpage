@@ -10,6 +10,7 @@ import pokemon_quiz from "../../images/portfolioImages/pokemon_quiz.png";
 import smash_website from "../../images/portfolioImages/smash_website.png";
 import video_player from "../../images/portfolioImages/video_player.png";
 import weather_app from "../../images/portfolioImages/weather_app.png";
+import videoGameAPI from "../../images/portfolioImages/videoGameAPI.png"
 
 const projects = [
   {
@@ -92,6 +93,15 @@ const projects = [
     picture: weather_app,
     link: "https://github.com/samisamara/WeatherApp",
     key: "p9"
+  },
+  {
+    name: "Video Game API",
+    type: "Web Page",
+    description:
+      "Video Game search engine that utlizes IGDB's API to search for video games, and information about those games stored in IGDB's database. This website. When users enter a search term, they are shown a list of results, which a user may select one to view more details about that game.",
+    picture: videoGameAPI,
+    link: "https://github.com/samisamara/videoGamesAPI",
+    key: "p10"
   },
 ];
 
