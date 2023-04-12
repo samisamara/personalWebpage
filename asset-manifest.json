@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/personalWebpage/static/css/main.64506f76.css",
-    "main.js": "/personalWebpage/static/js/main.80d82c6d.js",
+    "main.js": "/personalWebpage/static/js/main.18233c39.js",
     "static/media/chicago.jpg": "/personalWebpage/static/media/chicago.42d413a0be6ac3cf6f4c.jpg",
     "static/media/smash_website.png": "/personalWebpage/static/media/smash_website.321e04e7fe87598ff51a.png",
     "static/media/selfPicture.jpeg": "/personalWebpage/static/media/selfPicture.e2936b6b82a8ee760a03.jpeg",
+    "static/media/videoGameAPI.png": "/personalWebpage/static/media/videoGameAPI.19bff9e9a7b65873acf7.png",
     "static/media/driveThru.png": "/personalWebpage/static/media/driveThru.58d02261fd74c1943044.png",
     "static/media/atlasims.png": "/personalWebpage/static/media/atlasims.35606141e3a0dc7b0de4.png",
     "static/media/coolhexagaon.jpg": "/personalWebpage/static/media/coolhexagaon.6da467481005077e7f26.jpg",
@@ -13,14 +14,14 @@
     "static/media/pokemon_quiz.png": "/personalWebpage/static/media/pokemon_quiz.0aa62dad5d8a39911c86.png",
     "static/media/donut_dasher.png": "/personalWebpage/static/media/donut_dasher.eb37200079c84b411f76.png",
     "static/media/weather_app.png": "/personalWebpage/static/media/weather_app.d5f06fa43fdd2b52aae8.png",
-    "static/media/Samara_Sami_Resume.pdf": "/personalWebpage/static/media/Samara_Sami_Resume.ed8ce7a390544f4251fe.pdf",
+    "static/media/Samara_Sami_Resume.pdf": "/personalWebpage/static/media/Samara_Sami_Resume.8191fa59f22913c11e10.pdf",
     "static/media/chatroom.png": "/personalWebpage/static/media/chatroom.8b8b07e95697effdf0bc.png",
     "index.html": "/personalWebpage/index.html",
     "main.64506f76.css.map": "/personalWebpage/static/css/main.64506f76.css.map",
-    "main.80d82c6d.js.map": "/personalWebpage/static/js/main.80d82c6d.js.map"
+    "main.18233c39.js.map": "/personalWebpage/static/js/main.18233c39.js.map"
   },
   "entrypoints": [
     "static/css/main.64506f76.css",
-    "static/js/main.80d82c6d.js"
+    "static/js/main.18233c39.js"
   ]
 }
