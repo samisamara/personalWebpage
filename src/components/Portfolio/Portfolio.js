@@ -98,7 +98,7 @@ const projects = [
     name: "Video Game API",
     type: "Web Page",
     description:
-      "Video Game search engine that utlizes IGDB's API to search for video games, and information about those games stored in IGDB's database. This website. When users enter a search term, they are shown a list of results, which a user may select one to view more details about that game.",
+      "Video Game search engine that utlizes IGDB's API to search for video games, and information about those games stored in an external database. When users enter a search term, they are shown a list of results, which a user may select one to view more details about that game.",
     picture: videoGameAPI,
     link: "https://github.com/samisamara/videoGamesAPI",
     key: "p10"

@@ -4,7 +4,6 @@ import { FaBars, FaTimes } from 'react-icons/fa';
 import { useState, useEffect } from "react";
 import './Navbar.css';
 
-
 const Navbar = () => {
 
   const [click, setClick] = useState(false);
