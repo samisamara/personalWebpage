@@ -7,14 +7,14 @@ const educationList = [
     schoolName: 'Saint Xavier University',
     degree: "Master's Degree",
     date: 'December 2021 - December 2022',
-    description: "Majored in compupter science, specialized in software design and full stack development. Developed numerous cross platform web projects and mobile applications in group assignments, including a universal drive-thru application software. Tested DDoS programs for analysis.",
+    description: "Majored in computer science, specializing in software design and full stack development. During group assignments, I developed numerous cross-platform web projects and mobile applications, including a universal drive-thru application software. I also conducted testing on DDoS programs for analysis.",
     key: "s1"
   },
   {
     schoolName: 'Saint Xavier University',
     degree: "Bachelor's Degree",
     date: 'August 2019 - December 2021',
-    description: "Developed my skills in software development processes and algorithm design. Built several Java projects, such as a casino games application that keeps track of wins, loses, and current money. developed data analyzing tools such as SQL and RStudio.",
+    description: "Developed my skills in software development processes and algorithm design. I built several Java projects, including a casino games application that keeps track of wins, losses, and current funds. Additionally, I developed my skills in data analyzing tools such as SQL and RStudio.",
     key: "s2"
   },
   {
@@ -28,7 +28,7 @@ const educationList = [
     schoolName: 'Carl Sandburg Highschool',
     degree: "High School Degree",
     date: 'August 2013 - May 2017',
-    description: "Graduated in class of 2017. Won 3rd Place for Additive Engineering in Skills USA 2017. Studied and developed numerous models in additive engineering.",
+    description: "Graduated in the class of 2017 and won 3rd place for Additive Engineering in Skills USA 2017. During my studies, I focused on and developed numerous models in additive engineering.",
     key: "s4"
   }
 ];

@@ -14,11 +14,7 @@ const AboutMe = () => {
         <div className="introSection">
           <img id="selfPicture" className="rounded-circle" src={selfPicture} alt="selfImage"/>
           <p className="introText">
-            Hello! I'm a software engineer seeking employment in the computer
-            science industry. I graduated in Saint Xavier University with my
-            Master's degree in Computer Science. My primary goal is software
-            engineering, however, I also have a great interest in UX design,
-            mobile applications, cyber security, and many others.
+          Hello! I'm a software engineer seeking employment in the computer science industry. I graduated from Saint Xavier University with a Master's degree in Computer Science. My primary goal is software engineering; however, I also have a keen interest in UX design, mobile applications, cybersecurity, and many other areas!
           </p>
         </div>
         <Row>
@@ -26,9 +22,7 @@ const AboutMe = () => {
             <div className="profileSection">
               <h3 className="segmentTitle">PROFILE</h3>
               <p className="aboutText">
-                I am a new graduate, and currently looking for full time
-                positions in Computer Science and Software Egineering. If you
-                are interested in me, please reach out via{" "}
+              I am a recent graduate actively seeking full-time positions in the field of Computer Science and Software Engineering. If you find my qualifications suitable for any available opportunities, please don't hesitate to reach out to me at {" "}
                 <a className="anchor" href="mailto:samisamara548@gmail.com">
                   samisamara548@gmail.com
                 </a>
@@ -52,9 +46,7 @@ const AboutMe = () => {
             <div className="skills">
               <h3 className="segmentTitle">SKILLS</h3>
               <p className="skillsText">
-                I have developed my skills in Computer Science over the years,
-                as well as other varying skills centered around design. Below
-                are highlights of those technical skills.
+              I have developed my skills in computer science over the years, along with various other skills focused on design. Below are highlights of my technical skills.
               </p>
               <SkillBar />
             </div>
