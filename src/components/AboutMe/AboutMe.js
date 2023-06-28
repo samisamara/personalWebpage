@@ -4,7 +4,7 @@ import SkillBar from "../SkillBar/SkillBar.js";
 import selfPicture from "../../images/selfPicture.jpeg";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import resume from "../../images/Samara_Sami_Resume.pdf";
+import resume from "../../images/Sami_Samara_Resume.pdf";
 
 const AboutMe = () => {
   return (
