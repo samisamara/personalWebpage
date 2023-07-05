@@ -15,6 +15,15 @@ const SkillBar = () => {
       </div>
 
       <div className="skill-box">
+        <span className="title">React Native</span>
+        <div className="skill-bar">
+          <span className="skill-per reactNative">
+            <span className="tooltip">80%</span>
+          </span>
+        </div>
+      </div>
+
+      <div className="skill-box">
         <span className="title">Node.js/Express</span>
         <div className="skill-bar">
           <span className="skill-per nodeExpress">
