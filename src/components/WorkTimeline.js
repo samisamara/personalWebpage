@@ -6,7 +6,7 @@ const jobs = [
   {
     jobTitle: 'Contract Software Engineer',
     business: 'Atlas IMS',
-    date: 'June 2022 - September 2022',
+    date: 'August 2021 - September 2022',
     description: "Designed, developed, and maintained software applications to meet project requirements, collaborated with cross-functional teams to gather and analyze user needs and system specifications, worked with version control systems to manage and track changes in the codebase participated in code reviews, providing constructive feedback and ensuring code quality and adherence to coding standards",
     key: "w1"
   },
