@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personalWebpage/static/css/main.d4f51dde.css",
-    "main.js": "/personalWebpage/static/js/main.0a709bac.js",
+    "main.js": "/personalWebpage/static/js/main.707cb994.js",
     "static/media/chicago.jpg": "/personalWebpage/static/media/chicago.42d413a0be6ac3cf6f4c.jpg",
     "static/media/smash_website.png": "/personalWebpage/static/media/smash_website.321e04e7fe87598ff51a.png",
     "static/media/selfPicture.jpeg": "/personalWebpage/static/media/selfPicture.e2936b6b82a8ee760a03.jpeg",
@@ -10,7 +10,7 @@
     "static/media/atlasims.png": "/personalWebpage/static/media/atlasims.35606141e3a0dc7b0de4.png",
     "static/media/coolhexagaon.jpg": "/personalWebpage/static/media/coolhexagaon.6da467481005077e7f26.jpg",
     "static/media/video_player.png": "/personalWebpage/static/media/video_player.d628beca15ac6c4d861d.png",
-    "static/media/Sami_Samara_Resume.pdf": "/personalWebpage/static/media/Sami_Samara_Resume.80da24c2cdf015c03f71.pdf",
+    "static/media/Sami_Samara_Resume.pdf": "/personalWebpage/static/media/Sami_Samara_Resume.c18b252aa7ee4b1877b0.pdf",
     "static/media/casino_games.png": "/personalWebpage/static/media/casino_games.1fa7dcea6c5d436b960b.png",
     "static/media/pokemon_quiz.png": "/personalWebpage/static/media/pokemon_quiz.0aa62dad5d8a39911c86.png",
     "static/media/donut_dasher.png": "/personalWebpage/static/media/donut_dasher.eb37200079c84b411f76.png",
@@ -18,10 +18,10 @@
     "static/media/chatroom.png": "/personalWebpage/static/media/chatroom.8b8b07e95697effdf0bc.png",
     "index.html": "/personalWebpage/index.html",
     "main.d4f51dde.css.map": "/personalWebpage/static/css/main.d4f51dde.css.map",
-    "main.0a709bac.js.map": "/personalWebpage/static/js/main.0a709bac.js.map"
+    "main.707cb994.js.map": "/personalWebpage/static/js/main.707cb994.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f51dde.css",
-    "static/js/main.0a709bac.js"
+    "static/js/main.707cb994.js"
   ]
 }
