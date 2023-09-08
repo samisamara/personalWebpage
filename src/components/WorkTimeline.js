@@ -24,20 +24,6 @@ const jobs = [
     description: "Operated departments for numerous products and services, such as routers, security systems, etc. I also grew sales and boosted profits by implementing proactive management strategies, and trained and developed new hires in company processes.",
     key: "w3"
   },
-  {
-    jobTitle: 'Store Associate and Delivery Services',
-    business: 'Panera Bread',
-    date: 'August 2018 - August 2019',
-    description: "Provided attentive service and proactively assessed guest needs. Also trained new employees in operational proceedures and modeled duties for front and back house positions.",
-    key: "w4"
-  },
-  {
-    jobTitle: 'Party Facilitator and Safety',
-    business: 'Sky Zone',
-    date: 'August 2016 - August 2018',
-    description: "Managed event logistics and operations of event planning and booking. Also coordinated schedules and timeline for events. Attentively monitored harness equipment with standards, policies, and regulatory guidelines to promote a safe environment.",
-    key: "w5"
-  }
 ];
 
 const WorkTimeline = () => {
