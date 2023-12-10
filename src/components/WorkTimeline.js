@@ -23,14 +23,7 @@ const jobs = [
     date: 'March 2020 - Present',
     description: "Managed UPS packaging and shipment operations. I also maintained privacy policies to abide with UPS's goal of maintaining customer's privacy, Operated all software programs on Point of Sale, MS Office System, and internal project management systems to meet with time sensitive tasks, and managed employment within the facility.",
     key: "w3"
-  },
-  {
-    jobTitle: 'Technical Sales Consultant',
-    business: 'Best Buy',
-    date: 'August 2019 - December 2019',
-    description: "Operated departments for numerous products and services, such as routers, security systems, etc. I also grew sales and boosted profits by implementing proactive management strategies, and trained and developed new hires in company processes.",
-    key: "w4"
-  },
+  }
 ];
 
 const WorkTimeline = () => {
