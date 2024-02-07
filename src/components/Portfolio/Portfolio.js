@@ -14,7 +14,7 @@ import videoGameAPI from "../../images/portfolioImages/videoGameAPI.png"
 
 const projects = [
   {
-    name: "AtlasIMS",
+    name: "Atlas IMS",
     type: "Web Development",
     description:
       "Designed UI layout for Atlas IMS's business front page. Created a webpage with the Mobile-First design philosophy and designed the website structure to be both interactive and informative of Atlas IMS and their business operations.",

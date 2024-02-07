@@ -5,7 +5,7 @@ import WorkElement from "./WorkElement";
 const jobs = [
   {
     jobTitle: 'Intern Backend Engineer',
-    business: 'ChangEd',
+    business: 'Changed App',
     date: 'October 2023 - Present',
     description: "Designed a comprehensive business admin application for admins to view end-user stats, enhancing business analytics, engineered backend functions and a Firebase database segregating user data by ABA numbers, optimizing client data management Spearheaded the creation of an intuitive and user-friendly interface for the Business Admin App, significantly enhancing user experience and engagement with the platform Implemented a secure sign-in process, enhancing user trust and app security",
     key: "w1"
