@@ -14,7 +14,7 @@ const AboutMe = () => {
         <div className="introSection">
           <img id="selfPicture" className="rounded-circle" src={selfPicture} alt="selfImage"/>
           <p className="introText">
-          Hello! I'm a software engineer seeking employment in the computer science industry. I graduated from Saint Xavier University with a Master's degree in Computer Science. My primary goal is software engineering; however, I also have a keen interest in UX design, mobile applications, cybersecurity, and many other areas!
+          Hello there! My name is Sami Samara, and I am a software engineer seeking employment in the computer science industry. I graduated from Saint Xavier University with a Master's degree in Computer Science. My primary goal is DevOps; however, I also have a keen interest in UX design, iOS development, cybersecurity, and many more!
           </p>
         </div>
         <Row>
