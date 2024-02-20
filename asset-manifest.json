@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98e2149c.css",
-    "main.js": "/static/js/main.feaa979a.js",
+    "main.css": "/static/css/main.5a1007d5.css",
+    "main.js": "/static/js/main.ce7ab6e1.js",
     "static/media/chicago.jpg": "/static/media/chicago.42d413a0be6ac3cf6f4c.jpg",
     "static/media/smash_website.png": "/static/media/smash_website.321e04e7fe87598ff51a.png",
     "static/media/selfPicture.jpeg": "/static/media/selfPicture.e2936b6b82a8ee760a03.jpeg",
@@ -17,11 +17,11 @@
     "static/media/weather_app.png": "/static/media/weather_app.d5f06fa43fdd2b52aae8.png",
     "static/media/chatroom.png": "/static/media/chatroom.8b8b07e95697effdf0bc.png",
     "index.html": "/index.html",
-    "main.98e2149c.css.map": "/static/css/main.98e2149c.css.map",
-    "main.feaa979a.js.map": "/static/js/main.feaa979a.js.map"
+    "main.5a1007d5.css.map": "/static/css/main.5a1007d5.css.map",
+    "main.ce7ab6e1.js.map": "/static/js/main.ce7ab6e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.98e2149c.css",
-    "static/js/main.feaa979a.js"
+    "static/css/main.5a1007d5.css",
+    "static/js/main.ce7ab6e1.js"
   ]
 }
