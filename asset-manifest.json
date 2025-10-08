@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c45e94d8.css",
-    "main.js": "/static/js/main.b430a290.js",
+    "main.js": "/static/js/main.27b00d51.js",
     "static/media/chicago.jpg": "/static/media/chicago.42d413a0be6ac3cf6f4c.jpg",
     "static/media/smash_website.png": "/static/media/smash_website.321e04e7fe87598ff51a.png",
     "static/media/selfPicture.jpeg": "/static/media/selfPicture.e2936b6b82a8ee760a03.jpeg",
@@ -18,10 +18,10 @@
     "static/media/chatroom.png": "/static/media/chatroom.8b8b07e95697effdf0bc.png",
     "index.html": "/index.html",
     "main.c45e94d8.css.map": "/static/css/main.c45e94d8.css.map",
-    "main.b430a290.js.map": "/static/js/main.b430a290.js.map"
+    "main.27b00d51.js.map": "/static/js/main.27b00d51.js.map"
   },
   "entrypoints": [
     "static/css/main.c45e94d8.css",
-    "static/js/main.b430a290.js"
+    "static/js/main.27b00d51.js"
   ]
 }
