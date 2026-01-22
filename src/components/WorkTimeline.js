@@ -6,7 +6,7 @@ const jobs = [
   {
     jobTitle: 'Software Engineer',
     business: 'Urban Communications',
-    date: 'April 2025 - Present',
+    date: 'April 2025 - November 2025',
     description: "Built a LaTeX–Python pipeline to auto-generate PDF template documents from HTML form data, Integrated SMS with Opt-In/Opt-Out functionality into a CRM using PHP, Created CRM workflows to send SMS/email templates, auto-assign cases, and delete obsolete data, Migrated business data from a legacy CRM to a new system while preserving integrity, Optimized backend services to support seamless data flow, reducing server load times from 500ms to 120ms",
     key: "w1"
   },
