@@ -6,10 +6,28 @@ const SkillBar = () => {
     <div className="container">
 
       <div className="skill-box">
+        <span className="title">C#</span>
+        <div className="skill-bar">
+          <span className="skill-per csharp">
+            <span className="tooltip">90%</span>
+          </span>
+        </div>
+      </div>
+
+      <div className="skill-box">
         <span className="title">React/JavaScript</span>
         <div className="skill-bar">
           <span className="skill-per reactjs">
-            <span className="tooltip">90%</span>
+            <span className="tooltip">80%</span>
+          </span>
+        </div>
+      </div>
+
+       <div className="skill-box">
+        <span className="title">Unity</span>
+        <div className="skill-bar">
+          <span className="skill-per unity">
+            <span className="tooltip">80%</span>
           </span>
         </div>
       </div>
@@ -19,15 +37,6 @@ const SkillBar = () => {
         <div className="skill-bar">
           <span className="skill-per nodeExpress">
             <span className="tooltip">80%</span>
-          </span>
-        </div>
-      </div>
-
-      <div className="skill-box">
-        <span className="title">Swift</span>
-        <div className="skill-bar">
-          <span className="skill-per swift">
-            <span className="tooltip">65%</span>
           </span>
         </div>
       </div>
@@ -46,15 +55,6 @@ const SkillBar = () => {
         <div className="skill-bar">
           <span className="skill-per java">
             <span className="tooltip">80%</span>
-          </span>
-        </div>
-      </div>
-
-      <div className="skill-box">
-        <span className="title">Redux</span>
-        <div className="skill-bar">
-          <span className="skill-per redux">
-            <span className="tooltip">70%</span>
           </span>
         </div>
       </div>
@@ -87,37 +87,10 @@ const SkillBar = () => {
       </div>
 
       <div className="skill-box">
-        <span className="title">Android Studio</span>
-        <div className="skill-bar">
-          <span className="skill-per androidStudio">
-            <span className="tooltip">60%</span>
-          </span>
-        </div>
-      </div>
-
-      <div className="skill-box">
-        <span className="title">R Language</span>
-        <div className="skill-bar">
-          <span className="skill-per r">
-            <span className="tooltip">60%</span>
-          </span>
-        </div>
-      </div>
-
-      <div className="skill-box">
-        <span className="title">AutoDesk Inventor</span>
-        <div className="skill-bar">
-          <span className="skill-per autodesk">
-            <span className="tooltip">85%</span>
-          </span>
-        </div>
-      </div>
-
-      <div className="skill-box">
-        <span className="title">Adobe Illutrator/Photoshop</span>
+        <span className="title">Adobe Photoshop</span>
         <div className="skill-bar">
           <span className="skill-per adobe">
-            <span className="tooltip">80%</span>
+            <span className="tooltip">90%</span>
           </span>
         </div>
       </div>

@@ -45,13 +45,13 @@
   opacity: 0;
 }
 
-.skill-per.reactjs {
+.skill-per.csharp {
   width: 90%;
   animation-delay: 0.1s;
 }
 
-.skill-per.swift {
-  width: 65%;
+.skill-per.reactjs {
+  width: 80%;
   animation-delay: 0.1s;
 }
 
@@ -68,8 +68,8 @@
   width: 80%;
   animation-delay: 0.3s;
 }
-.skill-per.redux{
-  width: 70%;
+.skill-per.unity{
+  width: 80%;
   animation-delay: 0.3s;
 }
 .skill-per.mongoDB {
@@ -84,20 +84,8 @@
   width: 85%;
   animation-delay: 0.3s;
 }
-.skill-per.androidStudio{
-  width: 60%;
-  animation-delay: 0.3s;
-}
-.skill-per.r{
-  width: 60%;
-  animation-delay: 0.3s;
-}
-.skill-per.autodesk{
-  width: 85%;
-  animation-delay: 0.3s;
-}
 .skill-per.adobe{
-  width: 80%;
+  width: 90%;
   animation-delay: 0.3s;
 }
 
