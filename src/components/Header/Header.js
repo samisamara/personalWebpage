@@ -9,7 +9,7 @@ const Header = () => {
       <div className="header-content">
         <h1 className="title">Sami Samara</h1>
         <h3 className="title-alias">
-          Software Engineer | React Developer | Game Developer
+          Software Engineer | React Developer | IT Support Specialist
         </h3>
         <div className="iconCollection">
           <a href="https://www.github.com/samisamara" className="iconAnchor" target="_blank" rel="noopener noreferrer">
